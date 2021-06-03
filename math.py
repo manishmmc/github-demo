@@ -4,7 +4,10 @@ def add(a,b):
 
 # Subtract
 def sub(a,b):
-	pass
+	if y>x:
+		return y-x
+	else:
+		return x-y
 
 # Multiplication
 def mul(a,b):
